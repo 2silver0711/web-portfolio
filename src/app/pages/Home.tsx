@@ -103,7 +103,7 @@ export function Home() {
         <div className="flex-1 flex flex-col items-center justify-center text-center mb-24">
           {/* Main Headline */}
           <div className="mb-20">
-            <h1 className="font-['EB_Garamond:Bold_Italic',sans-serif] font-bold italic text-6xl md:text-8xl lg:text-9xl leading-[1.3] mb-0">
+            <h1 className="font-['EB_Garamond:Bold_Italic',sans-serif] font-bold italic text-5xl md:text-7xl lg:text-8xl leading-[1.3] mb-0">
               <span className="block mb-6 bg-gradient-to-r from-white/80 via-white to-white bg-clip-text text-transparent">
                 Designing Solutions
               </span>
