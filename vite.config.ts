@@ -4,8 +4,8 @@ import tailwindcss from '@tailwindcss/vite'
 import react from '@vitejs/plugin-react'
 
 export default defineConfig({
-  // GitHub Pages에서 /portfolio/ 경로로 배포되므로 base 설정
-  base: '/portfolio/',
+  // GitHub Pages에서 /web-portfolio/ 경로로 배포되므로 base 설정
+  base: '/web-portfolio/',
   plugins: [
     // The React and Tailwind plugins are both required for Make, even if
     // Tailwind is not being actively used – do not remove them
