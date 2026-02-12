@@ -8,7 +8,7 @@ import { ProjectDetail } from './pages/ProjectDetail';
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/web-portfolio">
       <div className="size-full">
         <Navigation />
         <Routes>
