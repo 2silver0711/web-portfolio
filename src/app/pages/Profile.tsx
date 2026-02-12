@@ -57,7 +57,7 @@ export function Profile() {
       {/* Content Container */}
       <div className="relative z-10 max-w-[1440px] mx-auto px-8 md:px-16 lg:px-20 py-12 pb-24">
         {/* Title */}
-        <h1 className="font-['EB_Garamond:Bold_Italic',sans-serif] font-bold italic text-6xl md:text-8xl mb-20">
+        <h1 className="font-['EB_Garamond:Bold_Italic',sans-serif] font-bold italic text-5xl md:text-7xl lg:text-8xl mb-20">
           <span className="bg-gradient-to-r from-gray-500 to-white bg-clip-text text-transparent">
             Profile
           </span>
